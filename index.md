@@ -63,16 +63,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Fishbowl W
 
-{% include image image="workforce2" %}
-
 ### Responsibilities
-
-- Worked with manufacturing customers to research their needs.
-- Designed the user interface and user experience.
-- Created mockups and specifications using photoshop, HTML, and CSS.
-- Helped to developed the front-end user interface.
-- Directed day-to-day development tasks.
-- Performed rigorous testing of new features.
 
 ### Technology
 
