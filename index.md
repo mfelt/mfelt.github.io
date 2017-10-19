@@ -4,30 +4,17 @@ You can use the [editor on GitHub](https://github.com/mfelt/mfelt.github.io/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
+### Fishbowl Workforce
 
 {% include image image="workforce" %}
 
-test2
+- Worked with manufacturing customers to research their needs.
+- Designed the user interface and user experience.
+- Created mockups and specifications using photoshop, HTML, and CSS.
+- Helped to developed the front-end user interface.
+- Directed day-to-day development tasks.
+- Performed rigorous testing of new features. 
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
