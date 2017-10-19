@@ -15,12 +15,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Created mockups and specifications using photoshop, HTML, and CSS.
 - Helped to developed the front-end user interface.
 - Directed day-to-day development tasks.
-- Performed rigorous testing of new features. 
+- Performed rigorous testing of new features.
 
-### Technology
+### Technology test
 
 - Symfony php backend framework
-- Shared multi-tenant MySQL database 
+- Shared multi-tenant MySQL database
 - Intercom integration
 - IOS mobile app built on phonegap
 
