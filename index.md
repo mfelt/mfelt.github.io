@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-4">
-    {% include image image="workforce2" %}
+    {% include image image="workforce" %}
     </div>
   </div>
 </div>
