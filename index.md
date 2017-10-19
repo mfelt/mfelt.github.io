@@ -24,7 +24,7 @@
         <h3>Commerce</h3>
       </div>
       <div class="content">
-        <p>Web-based time tracking application for Fishbowl Manufacturing customers.  </p>
+        <p>Multi-channel ecommerce inventory management system.</p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
