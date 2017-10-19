@@ -1,24 +1,24 @@
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="workforce" %}
+      {% include image image="workforce2" %}
     </div>
   </div>
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="commerce" %}
+      {% include image image="commerce2" %}
     </div>
   </div>
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="commerce" %}
+      {% include image image="commerce2" %}
     </div>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="commerce" %}
+      {% include image image="commerce2" %}
     </div>
   </div>
 </div>
