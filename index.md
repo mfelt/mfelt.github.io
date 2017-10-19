@@ -1,10 +1,16 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-xs-4">
-    {% include image image="workforce" %}
+      {% include image image="workforce" %}
     </div>
     <div class="col-xs-4">
-    {% include image image="commerce" %}
+      {% include image image="commerce" %}
+    </div>
+    <div class="col-xs-4">
+      {% include image image="commerce" %}
+    </div>
+    <div class="col-xs-4">
+      {% include image image="commerce" %}
     </div>
   </div>
 </div>
