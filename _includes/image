@@ -1,1 +1,1 @@
-<img src="/assets/assets/images/{{ include.image }}.png" alt="{{ include.image }}"/>
+<img src="/assets/images/{{ include.image }}.png" alt="{{ include.image }}"/>
