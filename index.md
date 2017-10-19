@@ -10,6 +10,9 @@
       <div class="content">
         <p>Web-based time and project tracking application. </p>
       </div>
+      <div class="link">
+        <a href="#">VIEW PROJECT</a>
+      </div>
     </div>
   </div>
   <div class="col-xs-4">
@@ -23,6 +26,9 @@
       <div class="content">
         <p>Web-based time and project tracking application. </p>
       </div>
+      <div class="link">
+        <a href="#">VIEW PROJECT</a>
+      </div>
     </div>
   </div>
   <div class="col-xs-4">
@@ -35,6 +41,9 @@
       </div>
       <div class="content">
         <p>Web-based time and project tracking application. </p>
+      </div>
+      <div class="link">
+        <a href="#">VIEW PROJECT</a>
       </div>
     </div>
   </div>
@@ -50,6 +59,9 @@
       </div>
       <div class="content">
         <p>Web-based time and project tracking application. </p>
+      </div>
+      <div class="link">
+        <a href="#">VIEW PROJECT</a>
       </div>
     </div>
   </div>
