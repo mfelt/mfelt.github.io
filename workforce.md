@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Fishbowl Time & Labor
+
+{% include image image="workforce" %}
 
 You can use the [editor on GitHub](https://github.com/mfelt/mfelt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
