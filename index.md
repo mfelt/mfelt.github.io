@@ -1,7 +1,7 @@
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="workforce2" %}
+      {% include image image="workforce-logo" %}
       <div class="title">
         <h3>Fishbowl</h3>
       </div>
@@ -9,7 +9,7 @@
   </div>
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="commerce2" %}
+      {% include image image="commerce-logo" %}
       <div class="title">
         <h3>Fishbowl</h3>
       </div>
