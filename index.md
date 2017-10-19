@@ -1,3 +1,11 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-4">
+    {% include image image="workforce2" %}
+    </div>
+  </div>
+</div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mfelt/mfelt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -17,7 +25,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Directed day-to-day development tasks.
 - Performed rigorous testing of new features.
 
-### Technology test
+### Technology
 
 - Symfony php backend framework
 - Shared multi-tenant MySQL database
