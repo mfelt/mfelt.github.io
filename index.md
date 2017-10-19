@@ -3,6 +3,9 @@
     <div class="col-xs-4">
     {% include image image="workforce" %}
     </div>
+    <div class="col-xs-4">
+    {% include image image="commerce" %}
+    </div>
   </div>
 </div>
 
