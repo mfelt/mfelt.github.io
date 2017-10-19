@@ -1,5 +1,12 @@
 ## Fishbowl Time & Labor
 
+### Technology
+
+- Symfony php backend framework
+- Shared multi-tenant MySQL database
+- Intercom integration
+- IOS mobile app built on phonegap
+
 {% include image image="workforce" %}
 
 You can use the [editor on GitHub](https://github.com/mfelt/mfelt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,12 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Responsibilities
 
-### Technology
 
-- Symfony php backend framework
-- Shared multi-tenant MySQL database
-- Intercom integration
-- IOS mobile app built on phonegap
 
 
 
