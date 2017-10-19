@@ -8,12 +8,22 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 {% include image image="workforce" %}
 
+### Responsibilities
+
 - Worked with manufacturing customers to research their needs.
 - Designed the user interface and user experience.
 - Created mockups and specifications using photoshop, HTML, and CSS.
 - Helped to developed the front-end user interface.
 - Directed day-to-day development tasks.
 - Performed rigorous testing of new features. 
+
+### Technology
+
+- Symfony php backend framework
+- Shared multi-tenant MySQL database 
+- Intercom integration
+- IOS mobile app built on phonegap
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
