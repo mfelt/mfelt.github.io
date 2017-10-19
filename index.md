@@ -1,36 +1,36 @@
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
-      <div class="title">
-        <h3>Fishbowl</h3>
-      </div>
       {% include image image="workforce2" %}
+      <div class="title">
+        <h3>Fishbowl</h3>
+      </div>
     </div>
   </div>
   <div class="col-xs-4">
     <div class="card">
+      {% include image image="commerce2" %}
       <div class="title">
         <h3>Fishbowl</h3>
       </div>
-      {% include image image="commerce2" %}
     </div>
   </div>
   <div class="col-xs-4">
     <div class="card">
+      {% include image image="commerce2" %}
       <div class="title">
         <h3>Fishbowl</h3>
       </div>
-      {% include image image="commerce2" %}
     </div>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
+      {% include image image="commerce2" %}
       <div class="title">
         <h3>Fishbowl</h3>
       </div>
-      {% include image image="commerce2" %}
     </div>
   </div>
 </div>
