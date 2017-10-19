@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Fishbowl Workforce
 
-{% include image image="workforce" %}
+{% include image image="workforce2" %}
 
 ### Responsibilities
 
