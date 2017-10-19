@@ -5,7 +5,7 @@
         {% include image image="workforce-logo" %}
       </div>
       <div class="title">
-        <h3>Fishbowl</h3>
+        <h3>Time & Labor</h3>
       </div>
       <div class="content">
         <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
@@ -21,7 +21,7 @@
         {% include image image="commerce-logo" %}
       </div>
       <div class="title">
-        <h3>Fishbowl</h3>
+        <h3>Commerce</h3>
       </div>
       <div class="content">
         <p>Web-based time tracking application for Fishbowl Manufacturing customers.  </p>
@@ -37,7 +37,7 @@
         {% include image image="commerce2" %}
       </div>
       <div class="title">
-        <h3>Fishbowl</h3>
+        <h3>ShipExpress</h3>
       </div>
       <div class="content">
         <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
@@ -55,7 +55,7 @@
         {% include image image="commerce2" %}
       </div>
       <div class="title">
-        <h3>Fishbowl</h3>
+        <h3>Front</h3>
       </div>
       <div class="content">
         <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
