@@ -11,7 +11,7 @@
         <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
       </div>
       <div class="link">
-        <a href="#">VIEW PROJECT</a>
+        <a href="/workforce/">VIEW PROJECT</a>
       </div>
     </div>
   </div>
