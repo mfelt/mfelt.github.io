@@ -30,7 +30,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif!important;
   font-size: 16px;
   line-height: 1.5!important;
-  color: $body-text-color;
+  color: $body-text-color !important;
 }
 
 a {
@@ -89,8 +89,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: #536976;
-  background-image: linear-gradient(120deg, #292E49, #536976);
+  background-color: #274C77;
+  background-image: linear-gradient(120deg, #274C77, #6096BA);
   margin: 0px 0px 37px 0px !important;
 
   @include large {
@@ -349,4 +349,11 @@ a {
 
 .row {
   margin-bottom: 20px;
+}
+
+.card {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-height: 208px;
 }
