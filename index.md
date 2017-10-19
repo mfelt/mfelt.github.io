@@ -2,7 +2,7 @@
   <div class="col-xs-4">
     <div class="card">
       <div class="title">
-        <h3>Fishbowl W</h3>
+        <h3>Fishbowl</h3>
       </div>
       {% include image image="workforce2" %}
     </div>
@@ -10,7 +10,7 @@
   <div class="col-xs-4">
     <div class="card">
       <div class="title">
-        <h3>Fishbowl W</h3>
+        <h3>Fishbowl</h3>
       </div>
       {% include image image="commerce2" %}
     </div>
@@ -18,7 +18,7 @@
   <div class="col-xs-4">
     <div class="card">
       <div class="title">
-        <h3>Fishbowl W</h3>
+        <h3>Fishbowl</h3>
       </div>
       {% include image image="commerce2" %}
     </div>
@@ -28,7 +28,7 @@
   <div class="col-xs-4">
     <div class="card">
       <div class="title">
-        <h3>Fishbowl W</h3>
+        <h3>Fishbowl</h3>
       </div>
       {% include image image="commerce2" %}
     </div>
