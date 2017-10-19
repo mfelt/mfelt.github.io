@@ -1,25 +1,40 @@
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="workforce-logo" %}
+      <div class="logo">
+        {% include image image="workforce-logo" %}
+      </div>
       <div class="title">
         <h3>Fishbowl</h3>
+      </div>
+      <div class="content">
+        <p>Web-based time and project tracking application. </p>
       </div>
     </div>
   </div>
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="commerce-logo" %}
+      <div class="logo">
+        {% include image image="commerce-logo" %}
+      </div>
       <div class="title">
         <h3>Fishbowl</h3>
+      </div>
+      <div class="content">
+        <p>Web-based time and project tracking application. </p>
       </div>
     </div>
   </div>
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="commerce2" %}
+      <div class="logo">
+        {% include image image="commerce2" %}
+      </div>
       <div class="title">
         <h3>Fishbowl</h3>
+      </div>
+      <div class="content">
+        <p>Web-based time and project tracking application. </p>
       </div>
     </div>
   </div>
@@ -27,9 +42,14 @@
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
-      {% include image image="commerce2" %}
+      <div class="logo">
+        {% include image image="commerce2" %}
+      </div>
       <div class="title">
         <h3>Fishbowl</h3>
+      </div>
+      <div class="content">
+        <p>Web-based time and project tracking application. </p>
       </div>
     </div>
   </div>
