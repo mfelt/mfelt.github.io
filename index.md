@@ -8,7 +8,7 @@
         <h3>Fishbowl</h3>
       </div>
       <div class="content">
-        <p>Web-based time and project tracking application. </p>
+        <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
@@ -24,7 +24,7 @@
         <h3>Fishbowl</h3>
       </div>
       <div class="content">
-        <p>Web-based time and project tracking application. </p>
+        <p>Web-based time tracking application for Fishbowl Manufacturing customers.  </p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
@@ -40,7 +40,7 @@
         <h3>Fishbowl</h3>
       </div>
       <div class="content">
-        <p>Web-based time and project tracking application. </p>
+        <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
@@ -58,7 +58,7 @@
         <h3>Fishbowl</h3>
       </div>
       <div class="content">
-        <p>Web-based time and project tracking application. </p>
+        <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
