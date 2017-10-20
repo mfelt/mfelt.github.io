@@ -1,12 +1,16 @@
-- Designed Front-end user interface.
-- Worked with customers to define stories and continually improve customer experience.
-- Directed all day-to-day product development
-- Implemented and administered JIRA.
-- Defined stories and maintained 4-week rolling backlog.
-- Created detailed mockups and specifications using a combination of photoshop, HTML/CSS, and wireframes.
-- Thoroughly tested features to locate bugs and ensure that all possible use cases were covered.
-- Became proficient at debugging code in IntelliJ to validate bugs and locate issues with integrations.
-- Managed feature requests from sales and support teams.
+## Current Expirience & Resposibilities
+
+- Design front-end UI and UX. (I designed the user interfaces for all projects listed below)
+- Work with customers to define stories and develop customer personas. 
+- Locate user expirience issues and define the changes needed to improve the customer experience.
+- Direct day-to-day product development tasks.
+- Managed the implementation of Jira and defined our workflows within the system. 
+- Maintain an organized backlog and defined upcoming sprints.
+- Create detailed mockups and specifications using photoshop, HTML/CSS, wireframes, and flow charts.
+- Perform continual testing to locate bugs and ensure that new features met requirments.
+- Use IntelliJ to debug code, validate bugs, and locate issues with integrations.
+- Manage feature requests from companywide departments and teams.
+- Present new features weekly in a company-wide demo.
 
 ## Projects
 
