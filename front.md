@@ -6,8 +6,6 @@ After reviewing our processes, we found that our support agents we spending a lo
 
 After implementing Front, our support teams are now able to stay caught up with requests and we no longer need to hire at the same pace.
 
-{% include h2 text="Front Custom Plugin" %}
-
 {% include imageb image="panel" %}
 
 {% include h2 text="Features & Automated Processes" %}
