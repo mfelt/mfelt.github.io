@@ -14,13 +14,13 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
 
 <div class="row cards">
   <div class="col-xs-4">
-    {% include imageb image="app1" %}
+    {% include imagej image="app1" %}
   </div>
   <div class="col-xs-4">
-    {% include imageb image="app2" %}
+    {% include imagej image="app2" %}
   </div>
   <div class="col-xs-4">
-    {% include imageb image="app3" %}
+    {% include imagej image="app3" %}
   </div>
 </div>
 
