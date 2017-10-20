@@ -37,7 +37,7 @@
         <p>Web-based multi-channel e-commerce inventory management system.</p>
       </div>
       <div class="link">
-        <a href="#">VIEW PROJECT</a>
+        <p>VIEW PROJECT</p>
       </div>
     </div>
   </div>
@@ -50,7 +50,7 @@
         <p>Web-based shipping solution for Fishbowl Commerce and Fishbowl Inventory customers. </p>
       </div>
       <div class="link">
-        <a href="#">VIEW PROJECT</a>
+        <p>VIEW PROJECT</p>
       </div>
     </div>
   </div>
@@ -65,7 +65,7 @@
         <p>Custom plugin integration with Fishbowl's internal customer management systems. </p>
       </div>
       <div class="link">
-        <a href="#">VIEW PROJECT</a>
+        <p>VIEW PROJECT</p>
       </div>
     </div>
   </div>
