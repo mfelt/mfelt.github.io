@@ -44,7 +44,7 @@
   <div class="col-xs-4">
     <div class="card">
       <div class="logo">
-        {% include image image="commerce2" %}
+        {% include image image="shipexpress" %}
       </div>
       <div class="content">
         <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
