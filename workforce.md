@@ -2,8 +2,6 @@
 
 Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufacturing customers. Allowing customers to track labor costs against specific manufacturing orders and calculate time totals for payroll.
 
-{% include h2 text="Main User Interface" %}
-
 {% include image image="workforce" %}
 
 {% include h2 text="IOS App" %}
