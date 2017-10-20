@@ -1,4 +1,4 @@
-## Fishbowl Time & Labor
+{% include h2 text="Fishbowl Time & Labor" %}
 
 ### Technology
 
