@@ -1,6 +1,6 @@
 {% include h2 text="Custom Plugin Integration with Front" %}
 
-In 2016, Fishbowl's support team grew by 25% to over 50 employees in an effort to keep up with the rising volume of customer support requests. Our support teams were struggling to keep up with requests and it was forecasted that we would need to continue hiring at a faster pace. We needed to find a way to make our support processes more efficient so we could more effectively scale our teams.
+In 2016, Fishbowl's support team grew by 25% to over 50 employees. Even after growing our teams, they were still struggling to keep up with incoming support requests. We needed to find a way to make our support processes more efficient so we could more effectively scale our support teams.
 
 After reviewing our processes, we found that our support agents we spending a lot of wasted time doing manual processes. I researched many different solutions and designed a custom plugin integration with a web-based email client called Front.
 
