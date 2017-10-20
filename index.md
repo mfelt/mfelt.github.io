@@ -8,7 +8,7 @@
 - Became proficient at debugging code in IntelliJ to validate bugs and locate issues with integrations.
 - Managed feature requests from sales and support teams.
 
-### Projects
+## Projects
 
 <div class="row">
   <div class="col-xs-4">
