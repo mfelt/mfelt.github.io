@@ -16,16 +16,18 @@
 
 <div class="row cards">
   <div class="col-xs-4">
-    <div class="card">
-      <div class="logo">
-        {% include image image="workforce-logo" %}
-      </div>
-      <div class="content">
-        <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
-      </div>
-      <div class="link">
-        <a href="/workforce/">VIEW PROJECT</a>
-      </div>
+    <a href="/workforce/">
+      <div class="card">
+        <div class="logo">
+          {% include image image="workforce-logo" %}
+        </div>
+        <div class="content">
+          <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
+        </div>
+        <div class="link">
+          <p>VIEW PROJECT</p>
+        </div>
+      </a>
     </div>
   </div>
   <div class="col-xs-4">
