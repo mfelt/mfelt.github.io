@@ -2,13 +2,13 @@
 
 Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufacturing customers. It allows customers to track their labor costs against specific manufacturing orders and calculate time for payroll.
 
-## Main User Interface
+{% include h2 text="Main User Interface" %}
 
 {% include image image="workforce" %}
 
-## IOS App
+{% include h2 text="IOS App" %}
 
-<div class="row cards">
+<div class="row">
   <div class="col-xs-4">
     {% include imagej image="app1" %}
   </div>
@@ -20,11 +20,11 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
   </div>
 </div>
 
-## Web Time Clock Interface
+{% include h2 text="Web Time Clock Interface" %}
 
 {% include imageb image="clock" %}
 
-### Technology Used
+{% include h2 text="Technology Used" %}
 
 - Symfony PHP framework
 - MySQL Shared multi-tenant database
