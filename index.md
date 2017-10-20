@@ -34,7 +34,7 @@
         {% include image image="commerce-logo" %}
       </div>
       <div class="content">
-        <p>Multi-channel e-commerce inventory management system for Fishbowl's e-commerce customers.</p>
+        <p>Web-based multi-channel e-commerce inventory management system.</p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
