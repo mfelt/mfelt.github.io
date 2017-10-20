@@ -4,6 +4,4 @@ Fishbowl ShipExpress is a web-based e-commerce integration solution for Fishbowl
 
 Fishbowl commerce downloads orders, synchronizes inventory quantities, and updates tracking information as orders ship out.
 
-{% include h2 text="Shipping Interface" %}
-
 {% include image image="shipping" %}
