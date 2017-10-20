@@ -31,45 +31,51 @@
     </a>
   </div>
   <div class="col-xs-4">
-    <div class="card">
-      <div class="logo">
-        {% include image image="commerce-logo" %}
+    <a href="/workforce/">
+      <div class="card">
+        <div class="logo">
+          {% include image image="commerce-logo" %}
+        </div>
+        <div class="content">
+          <p>Web-based multi-channel e-commerce inventory management system.</p>
+        </div>
+        <div class="link">
+          <p>VIEW PROJECT</p>
+        </div>
       </div>
-      <div class="content">
-        <p>Web-based multi-channel e-commerce inventory management system.</p>
-      </div>
-      <div class="link">
-        <p>VIEW PROJECT</p>
-      </div>
-    </div>
+    </a>
   </div>
   <div class="col-xs-4">
-    <div class="card">
-      <div class="logo">
-        {% include image image="shipexpress" %}
+    <a href="/workforce/">
+      <div class="card">
+        <div class="logo">
+          {% include image image="shipexpress" %}
+        </div>
+        <div class="content">
+          <p>Web-based shipping solution for Fishbowl Commerce and Fishbowl Inventory customers. </p>
+        </div>
+        <div class="link">
+          <p>VIEW PROJECT</p>
+        </div>
       </div>
-      <div class="content">
-        <p>Web-based shipping solution for Fishbowl Commerce and Fishbowl Inventory customers. </p>
-      </div>
-      <div class="link">
-        <p>VIEW PROJECT</p>
-      </div>
-    </div>
+    </a>
   </div>
 </div>
 <div class="row cards">
   <div class="col-xs-4">
-    <div class="card">
-      <div class="logo">
-        {% include image image="front" %}
+    <a href="/workforce/">
+      <div class="card">
+        <div class="logo">
+          {% include image image="front" %}
+        </div>
+        <div class="content">
+          <p>Custom plugin integration with Fishbowl's internal customer management systems. </p>
+        </div>
+        <div class="link">
+          <p>VIEW PROJECT</p>
+        </div>
       </div>
-      <div class="content">
-        <p>Custom plugin integration with Fishbowl's internal customer management systems. </p>
-      </div>
-      <div class="link">
-        <p>VIEW PROJECT</p>
-      </div>
-    </div>
+    </a>
   </div>
 </div>
 
