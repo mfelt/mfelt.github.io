@@ -12,7 +12,7 @@
 - Manage feature requests from companywide departments and teams.
 - Present new features weekly in a company-wide demo.
 
-{% include h2 text="Projects" %}
+<h2 id="projects"><span>Projects</span></h2>
 
 <div class="row cards">
   <div class="col-xs-4">
