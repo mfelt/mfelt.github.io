@@ -1,8 +1,10 @@
-{% include h2 text="Fishbowl ShipExpress" %}
+{% include h2 text="Front Custom Plugin Integration" %}
 
-Fishbowl ShipExpress is a web-based e-commerce integration solution for Fishbowl e-commerce customers. Allowing customers to manage all of their e-commerce sales channels and connect them into Fishbowl's main desktop application.
+In 2016 Fishbowl's support team grew by 25% to over 50 employees in an effort to keep up with the rising volume of customer support requests. Our support teams were struggling to keep up with requests and it was forecasted that we would need to continue hiring at a faster pace. We needed to find a way to make our support processes more efficient so we could more effectively scale our teams.
 
-Fishbowl commerce downloads orders, synchronizes inventory quantities, and updates tracking information as orders ship out.
+After reviewing our processes, we found that our support agents we spending a lot of wasted time doing manual processes. I researched many different solutions and designed a custom plugin integration with a web-based email client called Front.
+
+After implementing Front, our support teams are now able to stay caught up with requests and we no longer need to hire at the same pace. 
 
 {% include h2 text="Front Custom Plugin" %}
 
