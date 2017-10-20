@@ -4,7 +4,7 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
 
 {% include image image="workforce" %}
 
-{% include h2 text="IOS App" %}
+{% include h2 text="IOS Mobile App" %}
 
 <div class="row">
   <div class="col-xs-4">
