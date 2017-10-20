@@ -62,7 +62,7 @@
         {% include image image="front" %}
       </div>
       <div class="content">
-        <p>Email platform with a custom plugin integration to internal Fishbowl's internal customer management systems. </p>
+        <p>Custom integration to Fishbowl's internal customer management systems. </p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
