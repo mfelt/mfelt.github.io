@@ -9,7 +9,7 @@
 
 ### Main Interface
 
-{% include image image="clock" %}
+{% include imageb image="clock" radius="9" %}
 
 {% include image image="workforce" %}
 

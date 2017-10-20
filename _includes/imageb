@@ -1,0 +1,1 @@
+<img class="border" src="/assets/images/{{ include.image }}.png" alt="{{ include.image }}" style="border-radius: {{ include.radius}}px;"/>
