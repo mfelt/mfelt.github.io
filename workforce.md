@@ -1,14 +1,15 @@
 {% include h2 text="Fishbowl Time & Labor" %}
 
-### Technology
+### Technology Used
 
-- Symfony php backend framework
-- Shared multi-tenant MySQL database
+- Symfony PHP framework
+- MySQL Shared multi-tenant database
 - Intercom integration
-- IOS mobile app built on phonegap
+- Phonegap IOS app
 
 
 {% include image image="workforce" %}
+<br>
 
 You can use the [editor on GitHub](https://github.com/mfelt/mfelt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
