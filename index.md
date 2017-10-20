@@ -1,3 +1,14 @@
+- Designed Front-end user interface.
+- Worked with customers to define stories and continually improve customer experience.
+- Directed all day-to-day product development
+- Implemented and administered JIRA.
+- Defined stories and maintained 4-week rolling backlog.
+- Created detailed mockups and specifications using a combination of photoshop, HTML/CSS, and wireframes.
+- Thoroughly tested features to locate bugs and ensure that all possible use cases were covered.
+- Became proficient at debugging code in IntelliJ to validate bugs and locate issues with integrations.
+- Managed feature requests from sales and support teams.
+
+
 <div class="row">
   <div class="col-xs-4">
     <div class="card">
