@@ -14,7 +14,7 @@
 
 ## Projects
 
-<div class="row">
+<div class="row cards">
   <div class="col-xs-4">
     <div class="card">
       <div class="logo">
@@ -55,7 +55,7 @@
     </div>
   </div>
 </div>
-<div class="row">
+<div class="row cards">
   <div class="col-xs-4">
     <div class="card">
       <div class="logo">
