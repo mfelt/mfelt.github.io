@@ -31,7 +31,7 @@
     </a>
   </div>
   <div class="col-xs-4">
-    <a href="/workforce/">
+    <a href="/commerce/">
       <div class="card shadow">
         <div class="logo">
           {% include image image="commerce-logo" %}
@@ -46,7 +46,7 @@
     </a>
   </div>
   <div class="col-xs-4">
-    <a href="/workforce/">
+    <a href="/shipexpress/">
       <div class="card shadow">
         <div class="logo">
           {% include image image="shipexpress" %}
@@ -63,7 +63,7 @@
 </div>
 <div class="row cards">
   <div class="col-xs-4">
-    <a href="/workforce/">
+    <a href="/front/">
       <div class="card shadow">
         <div class="logo">
           {% include image image="front" %}

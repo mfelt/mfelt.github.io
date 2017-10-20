@@ -1,6 +1,6 @@
 {% include h2 text="Fishbowl Time & Labor" %}
 
-Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufacturing customers. It allows customers to track their labor costs against specific manufacturing orders and calculate time for payroll.
+Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufacturing customers. Allowing customers to track labor costs against specific manufacturing orders and calculate time totals for payroll.
 
 {% include h2 text="Main User Interface" %}
 
@@ -28,5 +28,8 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
 
 - Symfony PHP framework
 - MySQL Shared multi-tenant database
-- Intercom integration
+- Doctrine ORM
+- Data tables
+- Intercom chat integration
 - Phonegap IOS app
+- Amazon AWS

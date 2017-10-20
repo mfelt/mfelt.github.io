@@ -1,32 +1,19 @@
-{% include h2 text="Fishbowl Time & Labor" %}
+{% include h2 text="Fishbowl Commerce" %}
 
-Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufacturing customers. It allows customers to track their labor costs against specific manufacturing orders and calculate time for payroll.
+Fishbowl Commerce is a web-based e-commerce integration solution for Fishbowl e-commerce customers. Allowing customers to manage all of their e-commerce sales channels and connect them into Fishbowl's main desktop application.
+
+Fishbowl commerce downloads orders, synchronizes inventory quantities, and updates tracking information as orders ship out.
 
 {% include h2 text="Main User Interface" %}
 
-{% include image image="workforce" %}
-
-{% include h2 text="IOS App" %}
-
-<div class="row cards">
-  <div class="col-xs-4">
-    {% include imagej image="app1" %}
-  </div>
-  <div class="col-xs-4">
-    {% include imagej image="app2" %}
-  </div>
-  <div class="col-xs-4">
-    {% include imagej image="app3" %}
-  </div>
-</div>
-
-{% include h2 text="Web Time Clock Interface" %}
-
-{% include imageb image="clock" %}
+{% include image image="commerce" %}
 
 {% include h2 text="Technology Used" %}
 
-- Symfony PHP framework
-- MySQL Shared multi-tenant database
-- Intercom integration
-- Phonegap IOS app
+- Java Spring MVC
+- Angular
+- Shared multi-tenant MySQL database
+- Data tables
+- Mybatis
+- Message queues and async job processing
+- Amazon AWS
