@@ -390,16 +390,21 @@ a {
 }
 
 .main-content h2:before {
-    border-top: 2px solid #dfdfdf;
-    content: "";
-    margin: 0 auto;
-    position: absolute;
-    top: 50%;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 95%;
-    z-index: -1;
+    right: 1.5%;
+}
+
+.main-content h2:after {
+    left: 1.5%;
+}
+
+.main-content h2:before,
+.main-content h2:after {
+    border-top: 1px solid green;
+    content: '';
+    display: table-cell;
+    position: relative;
+    top: 0.5em;
+    width: 45%;
 }
 
 .main-content h2 {

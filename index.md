@@ -1,4 +1,4 @@
-<h2><span>Current Expirience &amp; Resposibilities</span></h2>
+## Current Expirience & Responsibilities
 
 - Design front-end UI and UX. (I designed the user interfaces for all projects listed below)
 - Work with customers to define stories and develop customer personas.
@@ -12,7 +12,7 @@
 - Manage feature requests from companywide departments and teams.
 - Present new features weekly in a company-wide demo.
 
-<h2><span>Projects</span></h2>
+## Projects
 
 <div class="row cards">
   <div class="col-xs-4">
