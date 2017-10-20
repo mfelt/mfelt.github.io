@@ -34,7 +34,7 @@
         {% include image image="commerce-logo" %}
       </div>
       <div class="content">
-        <p>Multi-channel ecommerce inventory management system.</p>
+        <p>Multi-channel e-commerce inventory management system for Fishbowl's e-commerce customers.</p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
@@ -47,7 +47,7 @@
         {% include image image="shipexpress" %}
       </div>
       <div class="content">
-        <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
+        <p>Web-based shipping solution for Fishbowl Commerce and Fishbowl Inventory customers. </p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
@@ -62,7 +62,7 @@
         {% include image image="front" %}
       </div>
       <div class="content">
-        <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
+        <p>Email platform with a custom plugin integration to internal Fishbowl's internal customer management systems. </p>
       </div>
       <div class="link">
         <a href="#">VIEW PROJECT</a>
