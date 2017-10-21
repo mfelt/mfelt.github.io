@@ -6,7 +6,7 @@
 
 {% include h2 text="FrontApp Custom Plugin" %}
 
-Fishbowl's support teams were struggling to keep up with the volume of incomming support requests. Our support teams had been growing by 25% year after year and they seemed to be indefinitely backed up.
+Fishbowl's support teams were struggling to keep up with the volume of incoming support requests. Our support teams had been growing by 25% year after year and they seemed to be indefinitely backed up.
 
 Our support team members were spending a significant amount of time doing manually looking up accounts and adding notes in many different disconnected systems.
 
