@@ -14,7 +14,7 @@ I found a web-based email system called Front that had a custom plugin API allow
 
 I designed processes around all of their tasks and worked with my development team to develop the system. Development included building out a custom front-end UI and connecting to a SQL Server database to store details about each request.
 
-After implementing Front, our support teams have been able to stay caught up with requests and they no longer need to hire at the same pace. This saves Fishbowl **$295,000** and **7,000+** hours each year.
+After implementing Front, our support teams have been able to stay caught up with requests and they no longer need to hire at the same pace. This custom Front integration saves Fishbowl **$295,000** and **7,000+** hours each year.
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
 
