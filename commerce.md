@@ -6,7 +6,7 @@ Fishbowl commerce downloads orders, synchronizes inventory quantities, and updat
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/commerce2.png" alt="commerce2"></p>
 
-{% include h2 text="Channel UI" %}
+{% include h2 text="Adding Sales Channels" %}
 
 <p class="text-center"><img src="/assets/images/addchannel.png" alt="addchannel"></p>
 
