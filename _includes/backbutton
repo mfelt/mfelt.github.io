@@ -1,1 +1,3 @@
-<a class="btn btn-default" href="/#projects"><i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Projects</a>
+<div class="text-center" style="margin-top: 60px;">
+  <a class="btn btn-default" href="/#projects"><i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Projects</a>
+</div>
