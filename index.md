@@ -15,7 +15,7 @@
 <h2 id="projects"><span>Projects</span></h2>
 
 <div class="row cards">
-  <div class="col-xs-12 col-sm-4 col-md-3">
+  <div class="col-xs-12 col-sm-6 col-md-3">
     <a href="/workforce/">
       <div class="card shadow">
         <div class="logo">
@@ -30,7 +30,7 @@
       </div>
     </a>
   </div>
-  <div class="col-xs-12 col-sm-4 col-md-3">
+  <div class="col-xs-12 col-sm-6 col-md-3">
     <a href="/commerce/">
       <div class="card shadow">
         <div class="logo">
@@ -45,7 +45,7 @@
       </div>
     </a>
   </div>
-  <div class="col-xs-12 col-sm-4 col-md-3">
+  <div class="col-xs-12 col-sm-6 col-md-3">
     <a href="/shipexpress/">
       <div class="card shadow">
         <div class="logo">
@@ -60,7 +60,7 @@
       </div>
     </a>
   </div>
-    <div class="col-xs-12 col-sm-40000000 col-md-3">
+    <div class="col-xs-12 col-sm-6 col-md-3">
     <a href="/front/">
       <div class="card shadow">
         <div class="logo">
