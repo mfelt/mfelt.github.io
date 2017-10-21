@@ -15,14 +15,14 @@ I am an insightful, results-driven employee motivated to drive projects from sta
     <ul style="margin-bottom: 15px !important;">
       <li>Photoshop</li>
       <li>HTML, CSS, Javascript, C#</li>
-      <li>Attention to details</li>
+      <li>Attention to Detail</li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important;">
-      <li>Innovative</li>
-      <li>Creative</li>
-      <li>Quick learner</li>
+      <li>Self Starter</li>
+      <li>Creative and Innovative</li>
+      <li>Quick Learner</li>
     </ul>
   </div>
 </div>
