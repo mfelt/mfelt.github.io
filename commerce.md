@@ -4,7 +4,7 @@ Fishbowl Commerce is a web-based e-commerce integration solution for Fishbowl e-
 
 Fishbowl commerce downloads orders, synchronizes inventory quantities, and updates tracking information as orders ship out.
 
-{% include image image="commerce" %}
+{% include imageb image="commerce2" %}
 
 {% include h2 text="Channel UI" %}
 
