@@ -2,15 +2,15 @@
 
 - Design front-end UI and UX. (I designed the user interfaces for all projects listed below)
 - Work with customers to define stories and develop customer personas.
-- Locate user expirience issues and define the changes needed to improve the customer experience.
+- Locate user experience issues and define the changes needed to improve the customer experience.
 - Direct day-to-day product development tasks.
 - Managed the implementation of Jira and defined our workflows within the system.
 - Maintain an organized backlog and defined upcoming sprints.
 - Create detailed mockups and specifications using photoshop, HTML/CSS, wireframes, and flow charts.
-- Perform continual testing to locate bugs and ensure that new features met requirments.
+- Perform continual testing to locate bugs and ensure that new features met requirements.
 - Use IntelliJ to debug code, validate bugs, and locate issues with integrations.
 - Manage feature requests from companywide departments and teams.
-- Present new features weekly in a company-wide demo.
+- Present new features weekly in a company-wide presentation.
 
 <h2 id="projects"><span>Project Portfolio</span></h2>
 
