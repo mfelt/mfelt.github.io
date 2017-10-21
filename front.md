@@ -4,13 +4,17 @@
   <li><a href="/front/"><span>Front</span></a></li>       
 </ol>
 
-{% include h2 text="FrontApp Custom Integration" %}
+{% include h2 text="FrontApp Custom Plugin" %}
 
-In 2016, Fishbowl's support team grew by 25% to over 50 employees. Even after growing our teams, they were still struggling to keep up with incoming support requests. We needed to find a way to make our support processes more efficient so we could more effectively scale our support teams.
+Fishbowl's support teams were struggling to keep up with the volume of incomming support requests. Our support teams had been growing by 25% year after year and they seemed to be indefinitely backed up.
 
-After reviewing our processes, we found that our support agents we spending a lot of wasted time doing manual processes. I researched many different solutions and designed a custom plugin integration with a web-based email client called Front.
+Our support team members were spending a significant amount of time doing manually looking up accounts and adding notes in many different disconnected systems.
 
-After implementing Front, our support teams are now able to stay caught up with requests and we no longer need to hire at the same pace.
+I found a web-based email system called Front that had a custom plugin API allowing us to automatically retrieve information from all of our internal systems and display needed details on each support request. It also allowed us to add custom processes to streamline everyday tasks.
+
+I designed processes around all of their tasks and worked with my development team to develop the system. Development included building out a custom front-end UI and connecting to a SQL Server database to store details about each request.
+
+After implementing Front, our support teams have been able to stay caught up with requests and they no longer need to hire at the same pace. This saves Fishbowl $295,000 each year and saves the support teamss 7,000+ hours.
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
 
