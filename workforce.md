@@ -18,11 +18,11 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
   </div>
 </div>
 
-{% include h2 text="Web Time Clock Interface" %}
+{% include h2 text="Web Interface" %}
 
 {% include imageb image="clock" %}
 
-{% include h2 text="Technology Used" %}
+{% include h2 text="Technology" %}
 
 - Symfony PHP framework
 - MySQL Shared multi-tenant database
