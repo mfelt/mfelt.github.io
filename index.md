@@ -4,14 +4,14 @@
   <div class="col-xs-12 col-sm-6">
     <ul>
       <li>UX design</li>
-      <liProduct management</li>
+      <li>Product management</li>
       <li>Thorough testing</li>
      </ul>
   </div>
    <div class="col-xs-12 col-sm-6">
       <ul>
         <li>Customer empathy</li>
-        <liFront-end design and developmentt</li>
+        <li>Front-end design and developmentt</li>
         <li>Attention to detail</li>
      </ul>
   </div>
