@@ -4,10 +4,14 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
 
 ### Highlights
 
-- I designed every piece of the web application and the mobile IOS app.
+- I designed every piece application and user expirience.
 - I created mockups and worked with managed all product development tasks.
 
 <p style="margin-top: 40px;"><img src="/assets/images/workforce2.png" alt="workforce2"></p>
+
+{% include h2 text="Onboarding Process" %}
+
+{% include imageb image="signup" %}
 
 {% include h2 text="IOS Mobile App" %}
 
@@ -22,10 +26,6 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
     {% include imagej image="app3" %}
   </div>
 </div>
-
-{% include h2 text="Web Time Clock UI" %}
-
-<p class="text-center"><img class="border" src="/assets/images/clock.png" alt="clock"></p>
 
 {% include h2 text="Technology" %}
 
