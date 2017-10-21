@@ -3,8 +3,8 @@
 <div class="row">
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important;">
-      <li>UX design</li>
       <li>Product management</li>
+      <li>UX design</li>
       <li>Front-end UI design</li>
      </ul>
   </div>
