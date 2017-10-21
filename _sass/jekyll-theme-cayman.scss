@@ -117,11 +117,11 @@ a {
   }
 
   @include medium {
-    font-size: 2.25rem;
+    font-size: 40px;
   }
 
   @include small {
-    font-size: 1.75rem;
+    font-size: 28px;
   }
 }
 
@@ -141,11 +141,11 @@ a {
   }
 
   @include medium {
-    font-size: 1.15rem;
+    font-size: 18px;
   }
 
   @include small {
-    font-size: 1rem;
+    font-size: 16px;
   }
 }
 
@@ -169,8 +169,8 @@ a {
   }
 
   @include small {
-    padding: 2rem 1rem;
-    font-size: 12px;
+    padding: 15px 26px;
+    font-size: 14px;
   }
 
   img {
