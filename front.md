@@ -26,7 +26,8 @@ After implementing Front, our support teams have been able to stay caught up wit
 - Integrate DIAL button to Digium Switchvox
 - Allow CRM notes to be saved when finishing a call  
 - Automatically save email replies to CRM account
-- Automatically flag priority emails
+- Automatically flag priority emails based on content rules
 - Automatically route emails to the correct support teams
+- Transcribe voicemails
 
 {% include backbutton %}
