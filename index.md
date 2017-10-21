@@ -22,7 +22,7 @@
           {% include image image="workforce-logo" %}
         </div>
         <div class="content">
-          <p>Web-based time tracking application for Fishbowl Manufacturing customers. </p>
+          <p>Web-based time tracking application for Fishbowl Manufacturing customers.</p>
         </div>
         <div class="link">
           <p>VIEW PROJECT</p>
@@ -52,7 +52,7 @@
           {% include image image="shipexpress" %}
         </div>
         <div class="content">
-          <p>Web-based shipping solution for Fishbowl Commerce and Fishbowl Inventory customers. </p>
+          <p>Shipping solutions for Fishbowl Commerce and Fishbowl Inventory.</p>
         </div>
         <div class="link">
           <p>VIEW PROJECT</p>
@@ -69,7 +69,7 @@
           {% include image image="front" %}
         </div>
         <div class="content">
-          <p>Custom plugin integration with Fishbowl's internal customer management systems. </p>
+          <p>Custom Sugar CRM integration to automate support tasks.</p>
         </div>
         <div class="link">
           <p>VIEW PROJECT</p>
