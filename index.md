@@ -10,16 +10,16 @@
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul>
-      <li>Customer empathy</li>
-      <li>Thorough testing</li>
-      <li>Attention to detail</li>
+      <li>Research-oriented</li>
+      <li>Good business sense</li>
+      <li>Attentive to details</li>
     </ul>
   </div>
     <div class="col-xs-12 col-sm-4">
       <ul>
-        <li>Customer empathy</li>
-        <li>Front-end design and developmentt</li>
-        <li>Attention to detail</li>
+        <li>Customer-oriented</li>
+        <li>Creative</li>
+        <li>Quick learner</li>
      </ul>
   </div>
 </div>
