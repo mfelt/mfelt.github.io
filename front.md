@@ -1,4 +1,10 @@
-{% include h2 text="Custom Front Integration" %}
+<ol class="breadcrumbs" style="margin-bottom: -30px!important;">
+  <li><a href="/"><span>Home</span></a></li>
+  <li><a href="/#projects"><span>Projects</span></a></li>
+  <li><a href="/front/"><span>Front</span></a></li>       
+</ol>
+
+{% include h2 text="FrontApp Custom Integration" %}
 
 In 2016, Fishbowl's support team grew by 25% to over 50 employees. Even after growing our teams, they were still struggling to keep up with incoming support requests. We needed to find a way to make our support processes more efficient so we could more effectively scale our support teams.
 
