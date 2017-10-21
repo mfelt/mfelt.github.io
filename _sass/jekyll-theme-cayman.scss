@@ -360,7 +360,7 @@ a {
 }
 
 .card {
-  padding: 20px;
+  padding: 20px 16px;
   min-height: 208px;
   text-align: center;
   border: 1px solid #c4ccd6;
@@ -377,7 +377,7 @@ a {
 
 .card .logo {
     margin: 20px 0px 25px 0px;
-    padding: 0px 18px;
+    padding: 0px 5px;
 }
 
 .card .link {
@@ -419,8 +419,8 @@ a {
 }
 
 .cards .col-xs-12 {
-    padding-right: 5px !important;
-    padding-left: 5px !important;
+    padding-right: 8px !important;
+    padding-left: 8px !important;
     margin-bottom: 15px;
 }
 
