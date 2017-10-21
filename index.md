@@ -1,4 +1,4 @@
-{% include h2 text="Experience & Responsibilities" %}
+{% include h2 text="My Experience & Responsibilities" %}
 
 - Design front-end UI and UX. (I designed the user interfaces for all projects listed below)
 - Work with customers to define stories and develop customer personas.
