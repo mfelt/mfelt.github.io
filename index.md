@@ -60,9 +60,7 @@
       </div>
     </a>
   </div>
-</div>
-<div class="row cards">
-  <div class="col-xs-12 col-sm-40000000 col-md-3">
+    <div class="col-xs-12 col-sm-40000000 col-md-3">
     <a href="/front/">
       <div class="card shadow">
         <div class="logo">
