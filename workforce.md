@@ -18,7 +18,7 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
   </div>
 </div>
 
-{% include h2 text="Web Interface" %}
+{% include h2 text="Web Time Clock UI" %}
 
 {% include imageb image="clock" %}
 
