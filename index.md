@@ -1,5 +1,5 @@
 <br>
-I am an insightful, results-driven employee motivated to drive projects from start to finish as part of a dynamic team. I have hands-on experience engaging in all stages of product development, including defining requirements, design, testing, and support. My strengths include innovative business solutions, product management, expert customer relations, user expirience improvement, and UI design.
+I am an insightful, results-driven employee motivated to drive projects from start to finish as part of a dynamic team. I have hands-on experience engaging in all stages of product development, including defining requirements, design, testing, and support. My strengths include innovative business solutions, product management, expert customer relations, user experience improvement, and UI design.
 
 {% include h2 text="Skills" %}
 
@@ -15,8 +15,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
     <ul style="margin-bottom: 15px !important;">
       <li>Photoshop</li>
       <li>HTML, CSS, Javascript, C#</li>
-      <li>Stratigic Business Ideas and Implemntation</li>
-      <li>Attentive to details</li>
+      <li>Attention to details</li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
