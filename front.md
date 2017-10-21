@@ -6,17 +6,12 @@
 
 {% include h2 text="FrontApp Custom Plugin" %}
 
-Fishbowl's support teams were struggling to keep up with the volume of incoming support requests. Our support teams had been growing by 25% year after year and they seemed to be indefinitely backed up.
+Front is a web based email application that I used to creat a custom support solution for Fishbowl. After Fishbows support teams grew 25% year over year but still could not keep up with  the volume of incoming support requests I was assigned this task of finding, designing, and implenting a strategy to run Fishbowl Support effeciently and cost effectively.
 
-Our support team members were spending a significant amount of time doing manually looking up accounts and adding notes in many different disconnected systems.
+I designed processes specific to Fishbowl Support teams to streamline their tasks. I headed the project with my development team to create newer and more successful and effecient processes. Development included building out a custom front-end UI and connecting to a SQL Server database to store details about each request.
 
-I found a web-based email system called Front that had a custom plugin API allowing us to automatically retrieve information from all of our internal systems and display needed details on each support request. It also allowed us to add custom processes to streamline everyday tasks.
+After implementing Front, Fishbowl's support department no longer needs to hire technical support at the extreme rate it was, saving the company hundreds of thousands of dollars each year. The VP of Internal Systems regularly reports on the productivity of my team and found our innovative solution will save $295,000.000 and over 7,000 hours of time each year. This is my passion, I solve problems creatively and add value with each product I design and manage. 
 
-I designed processes around all of their tasks and worked with my development team to develop the system. Development included building out a custom front-end UI and connecting to a SQL Server database to store details about each request.
-
-After implementing Front, our support teams have been able to stay caught up with requests and they no longer need to hire at the same pace. 
-
-This custom Front integration saves Fishbowl **$295,000** and **7,000+** hours per year.
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
 
