@@ -1,4 +1,4 @@
-{% include h2 text="Custom Plugin Integration with Front" %}
+{% include h2 text="Custom Front Integration" %}
 
 In 2016, Fishbowl's support team grew by 25% to over 50 employees. Even after growing our teams, they were still struggling to keep up with incoming support requests. We needed to find a way to make our support processes more efficient so we could more effectively scale our support teams.
 
@@ -8,7 +8,7 @@ After implementing Front, our support teams are now able to stay caught up with 
 
 {% include imageb image="panel" %}
 
-{% include h2 text="Features & Automated Processes" %}
+{% include h2 text="Features & Automation" %}
 
 - Automatic customer account lookup when emails are loaded
 - Displays account details from Sugar CRM and other internal systems
