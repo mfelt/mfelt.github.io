@@ -6,6 +6,10 @@ Fishbowl commerce downloads orders, synchronizes inventory quantities, and updat
 
 {% include image image="commerce" %}
 
+{% include h2 text="Channel UI" %}
+
+{% include image image="addchannel" %}
+
 {% include h2 text="Technology Used" %}
 
 - Java Spring MVC
