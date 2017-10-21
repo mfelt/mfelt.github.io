@@ -30,7 +30,7 @@ Fishbowl Time and Labor is a web-based time tracking system for Fishbowl Manufac
 {% include h2 text="Technology" %}
 
 - Symfony PHP framework
-- MySQL Shared multi-tenant database
+- MySQL shared multi-tenant database
 - Doctrine ORM
 - Data tables
 - Intercom chat integration
