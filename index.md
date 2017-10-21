@@ -1,14 +1,21 @@
 {% include h2 text="Highlights" %}
 
 <div class="row">
-  <div class="col-xs-12 col-sm-6">
+  <div class="col-xs-12 col-sm-4">
     <ul>
       <li>UX design</li>
       <li>Product management</li>
       <li>Thorough testing</li>
      </ul>
   </div>
-   <div class="col-xs-12 col-sm-6">
+  <div class="col-xs-12 col-sm-4">
+      <ul>
+        <li>Customer empathy</li>
+        <li>Front-end design and developmentt</li>
+        <li>Attention to detail</li>
+     </ul>
+  </div>
+     <div class="col-xs-12 col-sm-4">
       <ul>
         <li>Customer empathy</li>
         <li>Front-end design and developmentt</li>
