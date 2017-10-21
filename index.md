@@ -1,23 +1,28 @@
-{% include h2 text="Skills Summary" %}
+{% include h2 text="Summary" %}
+
+Insightful, results-driven professional motivated to drive projects from start to finish as part of a dynamic team. Hands-on experience engaging in all stages of product development, including requirements definition, design, testing, and support. Strengths include project management activities, user expirience improvement, and UI design.
+
+{% include h2 text="Skills" %}
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important;">
-      <li>Product management</li>
-      <li>UX design</li>
-      <li>Front-end UI design</li>
+      <li>Product Management</li>
+      <li>UX Design</li>
+      <li>Front-end UI Design</li>
      </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important;">
-      <li>Research-oriented</li>
-      <li>Good business sense</li>
+      <li>Photoshop</li>
+      <li>HTML, CSS, Javascript, C#</li>
+      <li>Stratigic Business Ideas and Implemntation</li>
       <li>Attentive to details</li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important;">
-      <li>Customer-oriented</li>
+      <li>Innovative</li>
       <li>Creative</li>
       <li>Quick learner</li>
     </ul>
