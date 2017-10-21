@@ -14,7 +14,7 @@ After implementing Front, our support teams are now able to stay caught up with 
 - Displays account details from Sugar CRM and other internal systems
 - Displays support contract status
 - Integrate DIAL button to Digium Switchvox
-- Allow CRM notes to be save when finishing a call  
+- Allow CRM notes to be saved when finishing a call  
 - Automatically save email replies to CRM account
 - Automatically flag priority emails
 - Automatically route emails to the correct support teams
