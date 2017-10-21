@@ -2,25 +2,25 @@
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
-    <ul>
+    <ul style="margin-bottom: 15px !important;">
       <li>UX design</li>
       <li>Product management</li>
       <li>Front-end UI design</li>
      </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
-    <ul>
+    <ul style="margin-bottom: 15px !important;">
       <li>Research-oriented</li>
       <li>Good business sense</li>
       <li>Attentive to details</li>
     </ul>
   </div>
-    <div class="col-xs-12 col-sm-4">
-      <ul>
-        <li>Customer-oriented</li>
-        <li>Creative</li>
-        <li>Quick learner</li>
-     </ul>
+  <div class="col-xs-12 col-sm-4">
+    <ul style="margin-bottom: 15px !important;">
+      <li>Customer-oriented</li>
+      <li>Creative</li>
+      <li>Quick learner</li>
+    </ul>
   </div>
 </div>
 
