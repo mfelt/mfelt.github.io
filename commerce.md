@@ -1,3 +1,9 @@
+<ol class="breadcrumbs">
+  <li><a href="/"><span>Home</span></a></li>
+  <li><a href="/#projects"><span>Projects</span></a></li>
+  <li><a href="/workforce/"><span>Time &amp; Labor</span></a></li>       
+</ol>
+
 {% include h2 text="Fishbowl Commerce" %}
 
 Fishbowl Commerce is a web-based e-commerce integration solution for Fishbowl e-commerce customers. Allowing customers to manage all of their e-commerce sales channels and connect them into Fishbowl’s main desktop application.
