@@ -1,6 +1,4 @@
-{% include h2 text="Summary" %}
-
-Insightful, results-driven professional motivated to drive projects from start to finish as part of a dynamic team. Hands-on experience engaging in all stages of product development, including requirements definition, design, testing, and support. Strengths include project management activities, user expirience improvement, and UI design.
+I am an insightful, results-driven employee motivated to drive projects from start to finish as part of a dynamic team. I have hands-on experience engaging in all stages of product development, including requirements definition, design, testing, and support. My strengths include innovative business solutions, product management, expert customer relations, user expirience improvement, and UI design.
 
 {% include h2 text="Skills" %}
 
