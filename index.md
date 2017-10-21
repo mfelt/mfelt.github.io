@@ -1,16 +1,16 @@
-{% include h2 text="My Experience & Responsibilities" %}
+{% include h2 text="Work Experience" %}
 
-- Design front-end UI and UX. (I designed the user interfaces for all projects listed below)
-- Work with customers to define stories and develop customer personas.
-- Locate user experience issues and define the changes needed to improve the customer experience.
-- Direct day-to-day product development tasks.
-- Managed the implementation of Jira and defined our workflows within the system.
-- Maintain an organized backlog and defined upcoming sprints.
-- Create detailed mockups and specifications using photoshop, HTML/CSS, wireframes, and flow charts.
-- Perform continual testing to locate bugs and ensure that new features met requirements.
-- Use IntelliJ to debug code, validate bugs, and locate issues with integrations.
-- Manage feature requests from companywide departments and teams.
-- Present new features weekly in a company-wide presentation.
+- Designed front-end UI and UX. (I designed the user interfaces for all projects listed below)
+- Worked with customers to define stories and develop customer personas.
+- Found user experience issues and worked to define ways to improve our customer's experience.
+- Directed day-to-day product development tasks.
+- Implementated Jira and defined workflows within the system.
+- Maintained an organized backlog and defined upcoming sprints.
+- Created detailed mockups and specifications using photoshop, HTML/CSS, wireframes, and flow charts.
+- Performed continual testing to locate bugs and ensure that new features met requirements.
+- Used IntelliJ to debug code, validate bugs, and pin down issues with integrations.
+- Managed feature requests from companywide departments and teams.
+- Presented new features in a weekly company-wide meeting.
 
 <h2 id="projects"><span>Project Portfolio</span></h2>
 
