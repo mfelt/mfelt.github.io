@@ -12,4 +12,4 @@ We released ShipExpress on time and on budget.
 
 {% include image image="shipping" %}
 
-{% include image image="backbutton" %}
+{% include backbutton %}
