@@ -13,12 +13,6 @@
   </div>
 </div>
 
-- Created detailed mockups and specifications using photoshop, HTML/CSS, wireframes, and flow charts.
-- Performed continual testing to locate bugs and ensure that new features met requirements.
-- Used IntelliJ to debug code, validate bugs, and pin down issues with integrations.
-- Managed feature requests from companywide departments and teams.
-- Presented new features in a weekly company-wide meeting.
-
 {% include h2 text="Work Experience" %}
 
 - Designed front-end UI and UX. (I designed the user interfaces for all projects listed below)
