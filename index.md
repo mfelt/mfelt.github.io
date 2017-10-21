@@ -1,5 +1,4 @@
 <br>
-<br>
 I am an insightful, results-driven employee motivated to drive projects from start to finish as part of a dynamic team. I have hands-on experience engaging in all stages of product development, including defining requirements, design, testing, and support. My strengths include innovative business solutions, product management, expert customer relations, user expirience improvement, and UI design.
 
 {% include h2 text="Skills" %}
