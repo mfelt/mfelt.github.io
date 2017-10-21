@@ -7,15 +7,15 @@ I am an insightful, results-driven employee motivated to drive projects from sta
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important;">
       <li>Product Management</li>
-      <li>UX Design</li>
-      <li>Front-end UI Design</li>
+      <li>Agile Scrum</li>
+      <li>UI and UX Design</li>
      </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important;">
+      <li>JIRA</li>
       <li>Photoshop</li>
       <li>HTML, CSS, Javascript, C#</li>
-      <li>Attention to Detail</li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
@@ -34,6 +34,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
 - Maintained an organized backlog and defined upcoming sprints.
 - Directed day-to-day product development tasks.
 - Built detailed mockups and specifications using photoshop, HTML/CSS, wireframes.
+- Organized and facilitated Agile and Scrum meetings
 - Worked continuously to discover user experience issues and implement improvements.
 - Implementated Jira and defined our workflows within the system.
 - Performed continual testing to locate bugs.
