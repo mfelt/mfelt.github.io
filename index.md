@@ -2,14 +2,18 @@
 
 <div class="row">
   <div class="col-xs-12 col-sm-6">
-    - UX design
-    - Product management
-    - Thorough testing
+    <ul>
+      <li>UX design</li>
+      <liProduct management</li>
+      <li>Thorough testing</li>
+     </ul>
   </div>
    <div class="col-xs-12 col-sm-6">
-    - Customer empathy
-    - Front-end design and development
-    - Attention to detail
+      <ul>
+        <li>Customer empathy</li>
+        <liFront-end design and developmentt</li>
+        <li>Attention to detail</li>
+     </ul>
   </div>
 </div>
 
