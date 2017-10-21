@@ -1,21 +1,21 @@
-{% include h2 text="Highlights" %}
+{% include h2 text="Skills Summary" %}
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
     <ul>
       <li>UX design</li>
       <li>Product management</li>
-      <li>Thorough testing</li>
+      <li>Front-end UI design</li>
      </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
-      <ul>
-        <li>Customer empathy</li>
-        <li>Front-end design and developmentt</li>
-        <li>Attention to detail</li>
-     </ul>
+    <ul>
+      <li>Customer empathy</li>
+      <li>Thorough testing</li>
+      <li>Attention to detail</li>
+    </ul>
   </div>
-     <div class="col-xs-12 col-sm-4">
+    <div class="col-xs-12 col-sm-4">
       <ul>
         <li>Customer empathy</li>
         <li>Front-end design and developmentt</li>
@@ -26,15 +26,16 @@
 
 {% include h2 text="Work Experience" %}
 
-- Designed front-end UI and UX. (I designed the user interfaces for all projects listed below)
+- Designed front-end UI for all projects.
 - Worked with customers to define stories and develop customer personas.
-- Found user experience issues and worked to define ways to improve our customer's experience.
-- Directed day-to-day product development tasks.
-- Implementated Jira and defined workflows within the system.
 - Maintained an organized backlog and defined upcoming sprints.
-- Created detailed mockups and specifications using photoshop, HTML/CSS, wireframes, and flow charts.
-- Performed continual testing to locate bugs and ensure that new features met requirements.
-- Used IntelliJ to debug code, validate bugs, and pin down issues with integrations.
+- Directed day-to-day product development tasks.
+- Built detailed mockups and specifications using photoshop, HTML/CSS, wireframes.
+- Worked continuously to discover user experience issues and implement improvements.
+- Implementated Jira and defined our workflows within the system.
+- Performed continual testing to locate bugs.
+- Tested all new features to ensure that they met all use cases and requirements.
+- Used IntelliJ to debug code, validate bugs, and pin down issues.
 - Managed feature requests from companywide departments and teams.
 - Presented new features in a weekly company-wide meeting.
 
