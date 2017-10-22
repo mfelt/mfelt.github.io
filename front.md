@@ -10,7 +10,7 @@ Front is a web based email application that I used to creat a custom support sol
 
 I designed processes specific to Fishbowl Support teams to streamline their tasks. I headed the project with my development team to create newer and more successful and effecient processes. Development included building out a custom front-end UI and connecting to a SQL Server database to store details about each request.
 
-After implementing Front, Fishbowl's support department no longer needs to hire technical support at the extreme rate it was, saving the company hundreds of thousands of dollars each year. The VP of Internal Systems regularly reports on the productivity of my team and found our innovative solution will save $295,000.000 and over 7,000 hours of time each year. This is my passion, I solve problems creatively and add value with each product I design and manage. 
+After implementing Front, Fishbowl's support department no longer needs to hire technical support at the extreme rate it was, saving the company hundreds of thousands of dollars each year. The VP of Internal Systems regularly reports on the productivity of my team and found our innovative solution will save **$295,000.000** and over **7,000** hours of time each year. This is my passion, I solve problems creatively and add value with each product I design and manage. 
 
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
