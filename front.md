@@ -4,7 +4,7 @@
   <li><a href="/front/"><span>Front</span></a></li>       
 </ol>
 
-{% include h2 text="FrontApp Custom Plugin" %}
+{% include h2 text="Custom Front Integration" %}
 
 Front is a web-based email application that I used to create a custom support solution for Fishbowl. Fishbowl's support teams have grown 25% year-over-year and have been unable to keep up with the volume of incoming support requests. I was assigned the task of finding, designing, and implementing a new support system that would allow the team to be more efficient and cost-effective.
 
