@@ -6,7 +6,7 @@
 
 {% include h2 text="FrontApp Custom Plugin" %}
 
-Front is a web-based email application that I used to create a custom support solution for Fishbowl. After Fishbowl's support teams grew 25% year over year but still could not keep up with the volume of incoming support requests I was assigned the task of finding, designing, and implementing a system that would allow the Support team to be more efficient and cost-effective.
+Front is a web-based email application that I used to create a custom support solution for Fishbowl. Fishbowl's support teams have grown 25% year-over-year and have been unable to keep up with the volume of incoming support requests. I was assigned the task of finding, designing, and implementing a new support system that would allow the team to be more efficient and cost-effective.
 
 I designed processes that allowed Fishbowl's Support teams to streamline their tasks. I headed the project development with my team to create a custom Front integration that would automate many of their day-to-day tasks. 
 
