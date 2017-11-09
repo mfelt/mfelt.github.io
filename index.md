@@ -23,7 +23,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
   <div class="col-xs-12 col-sm-4">
   {% include image image="slack" %}
     <ul style="margin-bottom: 15px !important;">
-      <li>Self Starter</li>
+      <li>Self-starter</li>
       <li>Creative and Innovative</li>
       <li>Quick Learner</li>
     </ul>
