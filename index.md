@@ -5,7 +5,9 @@ I am an insightful, results-driven employee motivated to drive projects from sta
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
-  {% include image image="jira" %}
+  <div class="text-center">
+    {% include image image="jira" %}
+  </div>
     <ul style="margin-bottom: 15px !important;">
       <li>Product Management</li>
       <li>Agile Scrum</li>
@@ -13,7 +15,9 @@ I am an insightful, results-driven employee motivated to drive projects from sta
      </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
-  {% include image image="photoshop" %}
+  <div class="text-center">
+    {% include image image="photoshop" %}
+  </div>
     <ul style="margin-bottom: 15px !important;">
       <li>JIRA</li>
       <li>Photoshop</li>
@@ -21,7 +25,9 @@ I am an insightful, results-driven employee motivated to drive projects from sta
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
-  {% include image image="slack" %}
+  <div class="text-center">
+    {% include image image="slack" %}
+  </div>
     <ul style="margin-bottom: 15px !important;">
       <li>Self-starter</li>
       <li>Creative and Innovative</li>
