@@ -1,7 +1,7 @@
 <br>
 I am an insightful, results-driven employee motivated to drive projects from start to finish as part of a dynamic team. I have hands-on experience engaging in all stages of product development, including defining product requirements, design, testing, and support. My strengths include product management, innovative business solutions, expert customer relations, user experience improvement, and UI design.
 
-<h2><span>Proficiencies</span></h2>
+<h2><span>Skills</span></h2>
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
@@ -26,7 +26,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
   </div>
   <div class="col-xs-12 col-sm-4">
   <div class="text-center">
-    {% include image image="slack" %}
+    {% include image image="xd" %}
   </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Self-starter</li>
