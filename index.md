@@ -19,7 +19,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
   </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Agile Scrum</li>
-      <li>HTML, CSS, Javascript, C#</li>
+      <li>HTML, CSS, JavaScript, C#</li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
@@ -39,10 +39,10 @@ I am an insightful, results-driven employee motivated to drive projects from sta
 - Worked with customers to define stories and develop customer personas.
 - Maintained an organized backlog and defined upcoming sprints.
 - Directed day-to-day product development tasks.
-- Built detailed mockups and specifications using photoshop, HTML/CSS, wireframes.
+- Built detailed mockups and specifications using Photoshop, HTML/CSS, wireframes.
 - Organized and facilitated Agile and Scrum meetings
 - Worked continuously to discover user experience issues and implement improvements.
-- Implementated Jira and defined our workflows within the system.
+- Implemented Jira and defined our workflows within the system.
 - Performed continual testing to locate bugs.
 - Tested all new features to ensure that they met all use cases and requirements.
 - Used IntelliJ to debug code, validate bugs, and pin down issues.
