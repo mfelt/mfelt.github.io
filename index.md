@@ -10,7 +10,6 @@ I am an insightful, results-driven employee motivated to drive projects from sta
   </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Product Management</li>
-      <li>Agile Scrum</li>
       <li>UI and UX Design</li>
      </ul>
   </div>
@@ -19,8 +18,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
     {% include image image="photoshop" %}
   </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
-      <li>JIRA</li>
-      <li>Photoshop</li>
+      <li>Agile Scrum</li>
       <li>HTML, CSS, Javascript, C#</li>
     </ul>
   </div>
@@ -31,7 +29,6 @@ I am an insightful, results-driven employee motivated to drive projects from sta
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Self-starter</li>
       <li>Creative and Innovative</li>
-      <li>Quick Learner</li>
     </ul>
   </div>
 </div>
