@@ -15,7 +15,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
   </div>
   <div class="col-xs-12 col-sm-4">
   <div class="text-center">
-    {% include image image="photoshop" %}
+    {% include image image="photoshop2" %}
   </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Agile Scrum</li>
@@ -24,7 +24,7 @@ I am an insightful, results-driven employee motivated to drive projects from sta
   </div>
   <div class="col-xs-12 col-sm-4">
   <div class="text-center">
-    {% include image image="xd" %}
+    {% include image image="xd2" %}
   </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Self-starter</li>
