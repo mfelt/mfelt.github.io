@@ -5,31 +5,31 @@ I am an insightful, results-driven employee motivated to drive projects from sta
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
-  <div class="text-center">
-    {% include image image="jira" %}
-  </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Product Management</li>
       <li>UI and UX Design</li>
-     </ul>
+    </ul>
+    <div class="text-center">
+      {% include image image="jira" %}
+    </div>
   </div>
   <div class="col-xs-12 col-sm-4">
-  <div class="text-center">
-    {% include image image="photoshop2" %}
-  </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Agile Scrum</li>
       <li>HTML, CSS, JavaScript, C#</li>
     </ul>
+    <div class="text-center">
+      {% include image image="photoshop2" %}
+    </div>
   </div>
   <div class="col-xs-12 col-sm-4">
-  <div class="text-center">
-    {% include image image="xd2" %}
-  </div>
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Self-starter</li>
       <li>Creative and Innovative</li>
     </ul>
+    <div class="text-center">
+      {% include image image="xd2" %}
+    </div>
   </div>
 </div>
 
