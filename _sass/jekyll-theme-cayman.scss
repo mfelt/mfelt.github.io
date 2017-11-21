@@ -92,6 +92,7 @@ a {
   text-align: center;
   background-color: #274C77;
   background-image: url(/assets/images/header.png);
+  background-size: cover;
   margin: 0px !important;
 
   @include large {
