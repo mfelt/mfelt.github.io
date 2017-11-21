@@ -91,7 +91,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: #274C77;
-  background-image: linear-gradient(120deg, #274C77, #6096BA);
+  background-image: url(/assets/images/header.png);
   margin: 0px !important;
 
   @include large {
@@ -489,8 +489,8 @@ a i {
     margin: 0;
 }
 
-.breadcrumbs a, 
-.breadcrumbs a:visited, 
+.breadcrumbs a,
+.breadcrumbs a:visited,
 .breadcrumbs a:hover {
     color: #1e6ead;
 }
