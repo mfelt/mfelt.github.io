@@ -37,10 +37,10 @@ I have hands-on experience working with an agile team on all stages of product d
 
 {% include h2 text="Product Management Experience" %}
 
-Product manager at Fishbowl
+<b>Product manager at <a href="http://www.fishbowlinventory.com">Fishbowl</a></b>
 Oct 2013 – Present (4 Years)
 
-- Research and define new features and product ideas. 
+- Research and define new feature and product ideas. 
 - Work with customers to research and define new products ideas and features.
 - Create detailed mockups and specifications using Photoshop, HTML/CSS, and Adobe XD.
 - Work directly with customers to find ways to improve our user experience.
@@ -53,7 +53,7 @@ Oct 2013 – Present (4 Years)
 - Perform continuous testing to locate bugs.
 - Present new features at a weekly company-wide meeting.
 
-See my full work experience on my <a href="https://www.linkedin.com/in/malcolm-felt-65922531/">LinkedIn profile</a>
+See my full work experience on <a href="https://www.linkedin.com/in/malcolm-felt-65922531/">LinkedIn</a>.
 
 <h2 id="projects"><span>Project Portfolio</span></h2>
 
