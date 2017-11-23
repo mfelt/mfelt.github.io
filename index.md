@@ -32,7 +32,7 @@ I have hands-on experience working with an agile team on all stages of product d
 {% include h2 text="Product Management Experience" %}
 
 <b>Product manager at <a href="http://www.fishbowlinventory.com">Fishbowl</a></b>
-<br>Oct 2013 – Present (4 Years)
+<br><em>Oct 2013 – Present (4 Years)</em>
 
 - Research and define new feature and product ideas. 
 - Work with customers to research and define new products ideas and features.
