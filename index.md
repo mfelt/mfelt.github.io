@@ -7,21 +7,21 @@ I have hands-on experience working with an agile team on all stages of product d
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
-    <ul style="margin-bottom: 15px !important; margin-top: 24px;">
+    <ul>
       <li>Product Management</li>
       <li>UI and UX Design</li>
       <li>Adobe Photoshop</li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
-    <ul style="margin-bottom: 15px !important; margin-top: 24px;">
+    <ul>
       <li>JIRA</li>
       <li>Agile Scrum</li>
       <li>HTML, CSS, JavaScript, C#</li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-4">
-    <ul style="margin-bottom: 15px !important; margin-top: 24px;">
+    <ul>
       <li>Adobe XD</li>
       <li>Self-starter</li>
       <li>Creative and Innovative</li>
