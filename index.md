@@ -35,21 +35,25 @@ I have hands-on experience working with an agile team on all stages of product d
   </div>
 </div>
 
-{% include h2 text="Work Experience" %}
+{% include h2 text="Product Management Experience" %}
 
-- Designed front-end UI for all projects.
-- Worked with customers to define stories and develop customer personas.
-- Maintained an organized backlog and defined upcoming sprints.
-- Directed day-to-day product development tasks.
-- Built detailed mockups and specifications using Photoshop, HTML/CSS, wireframes.
-- Organized and facilitated Agile and Scrum meetings
-- Worked continuously to discover user experience issues and implement improvements.
-- Implemented Jira and defined our workflows within the system.
-- Performed continual testing to locate bugs.
-- Tested all new features to ensure that they met all use cases and requirements.
-- Used IntelliJ to debug code, validate bugs, and pin down issues.
-- Managed feature requests from companywide departments and teams.
-- Presented new features in a weekly company-wide meeting.
+Product manager at Fishbowl
+Oct 2013 – Present (4 Years)
+
+- Research and define new features and product ideas. 
+- Work with customers to research and define new products ideas and features.
+- Create detailed mockups and specifications using Photoshop, HTML/CSS, and Adobe XD.
+- Work directly with customers to find ways to improve our user experience.
+- Manage feature requests from customers and internal teams.
+- Lead team meetings to brainstorm solutions for new features.
+- Manage backlog and weekly sprints in JIRA.
+- Direct day-to-day product development tasks.
+- Direct weekly Agile team retrospective meetings
+- Test all new features to ensure that they meet all use cases and requirements.
+- Perform continuous testing to locate bugs.
+- Present new features at a weekly company-wide meeting.
+
+See my full work experience on my <a href="https://www.linkedin.com/in/malcolm-felt-65922531/">LinkedIn profile</a>
 
 <h2 id="projects"><span>Project Portfolio</span></h2>
 
