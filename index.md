@@ -22,7 +22,7 @@ I have hands-on experience working with an agile team on all stages of product d
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
-      <liAdobe XD</li>
+      <li>Adobe XD</li>
       <li>Self-starter</li>
       <li>Creative and Innovative</li>
     </ul>
