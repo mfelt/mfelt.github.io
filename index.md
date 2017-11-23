@@ -31,7 +31,7 @@ I have hands-on experience working with an agile team on all stages of product d
 
 {% include h2 text="Product Management Experience" %}
 
-<b>Product manager at <a href="http://www.fishbowlinventory.com">Fishbowl</a></b>
+<b>Product manager at <a href="http://www.fishbowlinventory.com" target="_blank">Fishbowl</a></b>
 <br><em>Oct 2013 – Present (4 Years)</em>
 
 - Research and define new feature and product ideas. 
@@ -47,7 +47,7 @@ I have hands-on experience working with an agile team on all stages of product d
 - Perform continuous testing to locate bugs.
 - Present new features at a weekly company-wide meeting.
 
-See my full work experience on <a href="https://www.linkedin.com/in/malcolm-felt-65922531/">LinkedIn</a>.
+See my full work experience on <a href="https://www.linkedin.com/in/malcolm-felt-65922531/" target="_blank">LinkedIn</a>.
 
 <h2 id="projects"><span>Project Portfolio</span></h2>
 
