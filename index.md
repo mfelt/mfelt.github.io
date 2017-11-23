@@ -10,28 +10,22 @@ I have hands-on experience working with an agile team on all stages of product d
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
       <li>Product Management</li>
       <li>UI and UX Design</li>
+      <li>Adobe Photoshop</li>
     </ul>
-    <div class="text-center">
-      {% include image image="jira" %}
-    </div>
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
+      <li>JIRA</li>
       <li>Agile Scrum</li>
       <li>HTML, CSS, JavaScript, C#</li>
     </ul>
-    <div class="text-center">
-      {% include image image="photoshop2" %}
-    </div>
   </div>
   <div class="col-xs-12 col-sm-4">
     <ul style="margin-bottom: 15px !important; margin-top: 24px;">
+      <liAdobe XD</li>
       <li>Self-starter</li>
       <li>Creative and Innovative</li>
     </ul>
-    <div class="text-center">
-      {% include image image="xd2" %}
-    </div>
   </div>
 </div>
 
