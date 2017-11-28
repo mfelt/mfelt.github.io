@@ -1,7 +1,7 @@
 <br>
-I am an insightful, results-driven product manager. I love turning ideas into working software and designing features that customers love. 
+I am an insightful, results-driven product manager. I love turning ideas into working software and designing features that customers love.
 
-I have hands-on experience working with an agile team on all stages of product development, including researching features, defining  requirements, designing user interfaces, managing weekly sprints, testing, and support. 
+I have hands-on experience working with an agile team on all stages of product development, including researching features, defining  requirements, designing user interfaces, managing weekly sprints, testing, and support.
 
 <h2><span>Skills</span></h2>
 
@@ -31,11 +31,12 @@ I have hands-on experience working with an agile team on all stages of product d
 
 {% include h2 text="Product Management Experience" %}
 
-<b>Product manager at <a href="http://www.fishbowlinventory.com" target="_blank">Fishbowl</a></b>
-<br><em>2013 – Present (4 Years)</em>
+<b>Product manager at</b> <a href="http://www.fishbowlinventory.com" target="_blank"><b>Fishbowl</b></a>
+<br>
+<em>2013 – Present (4 Years)</em>
 
-- Research and define new feature and product ideas. 
-- Work with customers to research and define new products ideas and features.
+- Research and design new features and product ideas.
+- Work with customers to define requirements for new product ideas and features.
 - Create detailed mockups and specifications using Photoshop, HTML/CSS, and Adobe XD.
 - Work directly with customers to find ways to improve our user experience.
 - Manage feature requests from customers and internal teams.
