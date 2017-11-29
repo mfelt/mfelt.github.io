@@ -18,6 +18,7 @@ This integration automatically connects to our CRM, displays needed customer det
 
 After these processes, Fishbowl’s support department has been able to free up resources and save the hundreds of thousands of dollars each year. The VP of Support found that this automation saves **$295,000.000** and over **7,000** hours of time each year.
 
+<p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
 
 **Processes that were automated:**
 
@@ -28,7 +29,5 @@ After these processes, Fishbowl’s support department has been able to free up 
 - Automatically flag priority emails when key phrases are mentioned in a support request.
 - Check customer account and automatically route requests to the assigned teams.
 - Added a form to add call notes that are saved as notes on the customer's CRM account
-
-<p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
 
 {% include backbutton %}
