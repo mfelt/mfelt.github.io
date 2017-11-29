@@ -4,28 +4,30 @@
   <li><a href="/front/"><span>Front</span></a></li>       
 </ol>
 
-{% include h2 text="Custom Front Integration" %}
+{% include h2 text="My Fishbowl Customer Portal" %}
 
-Front is a web-based email application that I used to create a custom support solution for Fishbowl. Fishbowl's support teams have grown 25% year-over-year and have been unable to keep up with the volume of incoming support requests. I was assigned the task of finding, designing, and implementing a new support system that would allow the support team to be more efficient and cost-effective.
+My team and I created a customer portal for our customers that allows them to have visibility of their support requests, account information, and history from within the Fishbowl software.  
 
-I designed processes that allowed Fishbowl's Support teams to streamline their tasks. I headed the project development with my team to create a custom Front integration that would automate many of their day-to-day tasks.
+We implemented a web-based support system called {% include link url="https://frontapp.com/" text="Front" %} that allowed connect all of the support requests with the My Fishbowl customer portal.
 
-Development included building a custom application that retrieves relevant data from our internal systems and displays it within Front. We also added custom actions that allow the team to perform all of their tasks without leaving the system.
+{% include h2 text="Support Process Automation" %}
 
-After implementing Front, Fishbowl’s support department no longer needs to hire technical support at the extreme rate it was, saving the company hundreds of thousands of dollars each year. The VP of Internal Systems regularly reports on the productivity of my team and found that our innovative solution will save **$295,000.000** and over **7,000** hours of time each year.
+I also designed a custom Front integration with that automates all of the manual work that our support teams had to do when working with customers. 
+
+This integration automatically connects to our CRM, displays needed customer details, and allows them to do all of their call tasks all in one system.
+
+After these processes, Fishbowl’s support department has been able to free up resources and save the hundreds of thousands of dollars each year. The VP of Support found that this automation saves **$295,000.000** and over **7,000** hours of time each year.
+
+Here is a list of processes that we automated:
+
+- Lookup customer account details from multiple internal systems and display information on each support request.
+- Integrate with phone system to allow outbound dialing with the click of a button.
+- Integrate voicemail transcription.
+- Automatically save email replies directly to the customer's CRM account as notes.
+- Automatically flag priority emails when key phrases are mentioned in a support request.
+- Check customer account and automatically route requests to the assigned teams.
+- Added a form to add call notes that are saved as notes on the customer's CRM account
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
-
-{% include h2 text="Features & Automation" %}
-
-- Automatic customer account lookup when emails are loaded
-- Displays account details from Sugar CRM and other internal systems
-- Displays support contract status
-- Integrate DIAL button to Digium Switchvox
-- Allow CRM notes to be saved when finishing a call  
-- Automatically save email replies to CRM account
-- Automatically flag priority emails based on content rules
-- Automatically route emails to the correct support teams
-- Transcribe voicemails
 
 {% include backbutton %}
