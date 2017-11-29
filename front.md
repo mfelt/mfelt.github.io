@@ -11,6 +11,8 @@ My team and I created a customer portal for our customers that allows them to ha
 We implemented a web-based support system called {% include link url="https://frontapp.com/" text="Front" %} that allowed us to connect all of the support requests with the My Fishbowl customer portal.
 <br>
 <br>
+<br>
+
 ###Support Process Automation
 
 I also designed a custom Front integration with that automates all of the manual work that our support teams had to do when working with customers.
