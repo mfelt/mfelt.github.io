@@ -19,7 +19,7 @@ This integration automatically connects to our CRM, displays needed customer det
 After these processes, Fishbowl’s support department has been able to free up resources and save the hundreds of thousands of dollars each year. The VP of Support found that this automation saves **$295,000.000** and over **7,000** hours of time each year.
 
 
-**Here is a list of processes that we automated:**
+**Processes that were automated:**
 
 - Lookup customer account details from multiple internal systems and display information on each support request.
 - Integrate with phone system to allow outbound dialing with the click of a button.
