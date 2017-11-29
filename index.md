@@ -105,7 +105,7 @@ See my full work experience on {% include link url="https://www.linkedin.com/in/
           {% include image image="front" %}
         </div>
         <div class="content">
-          <p>Custom Sugar CRM integration to automate support tasks.</p>
+          <p>My Fishbowl customer portal and support automation.</p>
         </div>
         <div class="link">
           <p>VIEW PROJECT</p>
