@@ -20,7 +20,7 @@ After these processes, Fishbowl’s support department has been able to free up 
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
 
-**Processes that were automated:**
+**Automated Processes:**
 
 - Lookup customer account details from multiple internal systems and display information on each support request.
 - Integrate with phone system to allow outbound dialing with the click of a button.
