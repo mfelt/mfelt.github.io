@@ -8,7 +8,7 @@
 
 My team and I created a customer portal for our customers that allows them to have visibility of their support requests, account information, and history from within the Fishbowl software.  
 
-We implemented a web-based support system called {% include link url="https://frontapp.com/" text="Front" %} that allowed connect all of the support requests with the My Fishbowl customer portal.
+We implemented a web-based support system called {% include link url="https://frontapp.com/" text="Front" %} that allowed us to connect all of the support requests with the My Fishbowl customer portal.
 
 ***Support Process Automation***
 
