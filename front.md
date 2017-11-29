@@ -6,7 +6,7 @@
 
 {% include h2 text="My Fishbowl Customer Portal" %}
 
-My team and I created a customer portal for our customers that allows them to have visibility of their support requests, account information, and history from within the Fishbowl software.  
+My team and I developed a customer portal that gives Fishbowl customers visibility of their support requests and history from within the Fishbowl software.  
 
 We implemented a web-based support system called {% include link url="https://frontapp.com/" text="Front" %} that allowed us to connect all of the support requests with the My Fishbowl customer portal.
 <br>
