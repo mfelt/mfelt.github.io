@@ -12,7 +12,7 @@ We implemented a web-based support system called {% include link url="https://fr
 <br>
 <br>
 <br>
-###Support Process Automation###
+<h3>Support Process Automation</h3>
 
 I also designed a custom Front integration with that automates all of the manual work that our support teams had to do when working with customers.
 
