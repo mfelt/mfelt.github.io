@@ -1,5 +1,5 @@
 <br>
-I am an insightful, customer-focused product manager. I love finding new ideas and designing solutions that customers love.
+I am an insightful, customer-focused product manager. I love discovering new ideas and designing solutions that customers love.
 
 I have hands-on experience working with an agile team through all stages of product development. My specialties include working with customers, finding new opportunities, inventing creative solutions, designing smooth user experiences, prioritizing development stories, and performing comprehensive product tests.
 
@@ -41,7 +41,7 @@ I have extensive experience working with B2B customers and web-based application
 - Find creative solutions that solve more than just the customer's surface level problem.
 - Design smooth user experiences and user interfaces.
 - Create detailed mockups and specifications using Photoshop, HTML/CSS, and Adobe XD.
-- Lead design meetings to brainstorm solutions and new ideas.
+- Lead design meetings to brainstorm solutions for new ideas.
 - Manage feature requests from customers and internal teams.
 - Prioritize product development stories.
 - Manage backlog and sprints in JIRA.
