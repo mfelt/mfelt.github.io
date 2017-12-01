@@ -3,6 +3,8 @@ I am an insightful, customer-focused product manager. I love turning ideas into 
 
 I have hands-on experience working with an agile team on all stages of product development, including working with customers, finding new opportunities, inventing creative solutions, designing smooth user experiences, prioritizing development stories, and performing testing.
 
+My expertise is working with B2B customers and web-based applications.
+
 <h2><span>Skills</span></h2>
 
 <div class="row">
