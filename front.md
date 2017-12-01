@@ -8,15 +8,15 @@
 
 My team and I developed a customer portal that gives Fishbowl customers visibility of their support requests and history from within the Fishbowl software.  
 
-We implemented a web-based support system called {% include link url="https://frontapp.com/" text="Front" %} that allowed us to connect all of the support requests with the My Fishbowl customer portal.
+We implemented a web-based support system called {% include link url="https://frontapp.com/" text="Front" %} that allowed us to integrate support requests and account information withinin the customer portal.
 <br>
 <h3>Support Process Automation</h3>
 
-I also designed a custom Front integration with that automates all of the manual work that our support teams had to do when working with customers.
+I designed a custom Front integration with that automates all of the manual work that our support teams had to do when working with customers. I researched solutions and came up with creative solutions that streamlined our support processes that 
 
-This integration automatically connects to our CRM, displays needed customer details, and allows them to do all of their call tasks all in one system.
+Our integration automatically looks up the customer's account, displays essential customer details, and allows all neccessary actions to be accomplished without having to use multiple disconnected systems.
 
-After these processes, Fishbowl’s support department has been able to free up resources and save the hundreds of thousands of dollars each year. The VP of Support found that this automation saves **$295,000.000** and over **7,000** hours of time each year.
+After automating these processes, Fishbowl’s support department has been able to free up resources and save the hundreds of thousands of dollars each year. The VP of Support found that this automation saves **$295,000.000** and over **7,000** hours of time each year.
 
 <p style="margin-top: 40px;"><img class="border" src="/assets/images/panel.png" alt="panel"></p>
 
