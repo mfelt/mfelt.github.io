@@ -35,18 +35,18 @@ I have hands-on experience working with an agile team on all stages of product d
 <br>
 <em>2013 – Present (4 Years)</em>
 
-- Research and design new features and product ideas.
-- Work with customers to define requirements for new product ideas and features.
+- Work with customers to see things from their perspective and find new opportunities.
+- Find creative solutions that solve more than just the customer's surface level problem. 
+- Design smooth user expiriences and user interfaces.
 - Create detailed mockups and specifications using Photoshop, HTML/CSS, and Adobe XD.
-- Work directly with customers to find ways to improve our user experience.
+- Lead design meetings to brainstorm solutions and new ideas.
 - Manage feature requests from customers and internal teams.
-- Lead team meetings to brainstorm solutions for new features.
-- Manage backlog and weekly sprints in JIRA.
-- Direct day-to-day product development tasks.
-- Direct weekly Agile team retrospective meetings
+- Prioritize product development stories.
+- Manage backlog and sprints in JIRA.
+- Direct weekly Agile team retrospective meetings.
 - Test all new features to ensure that they meet all use cases and requirements.
 - Perform continuous testing to locate bugs.
-- Present new features at a weekly company-wide meeting.
+- Present new features in our weekly company-wide demo.
 
 See my full work experience on {% include link url="https://www.linkedin.com/in/malcolm-felt-65922531/" text="LinkedIn" %}
 
