@@ -38,8 +38,8 @@ I have extensive experience working with B2B customers and web-based application
 <em>2013 – Present (4 Years)</em>
 
 - Work with customers to see things from their perspective and find new opportunities.
-- Find creative solutions that solve more than just the customer's surface level problem. 
-- Design smooth user expiriences and user interfaces.
+- Find creative solutions that solve more than just the customer's surface level problem.
+- Design smooth user experiences and user interfaces.
 - Create detailed mockups and specifications using Photoshop, HTML/CSS, and Adobe XD.
 - Lead design meetings to brainstorm solutions and new ideas.
 - Manage feature requests from customers and internal teams.
